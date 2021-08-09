@@ -25,7 +25,14 @@
         "frameworks": {
           "net5.0": {
             "targetAlias": "net5.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "/home/ahmet/netcore/NetCoreAPI/NetCoreAPI.Service/NetCoreAPI.Service.csproj": {
+                "projectPath": "/home/ahmet/netcore/NetCoreAPI/NetCoreAPI.Service/NetCoreAPI.Service.csproj"
+              },
+              "/home/ahmet/netcore/NetCoreAPI/NetCoreAPI.SharedLibrary/NetCoreAPI.SharedLibrary.csproj": {
+                "projectPath": "/home/ahmet/netcore/NetCoreAPI/NetCoreAPI.SharedLibrary/NetCoreAPI.SharedLibrary.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
@@ -57,6 +64,222 @@
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
             },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.302/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/ahmet/netcore/NetCoreAPI/NetCoreAPI.Core/NetCoreAPI.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/ahmet/netcore/NetCoreAPI/NetCoreAPI.Core/NetCoreAPI.Core.csproj",
+        "projectName": "NetCoreAPI.Core",
+        "projectPath": "/home/ahmet/netcore/NetCoreAPI/NetCoreAPI.Core/NetCoreAPI.Core.csproj",
+        "packagesPath": "/home/ahmet/.nuget/packages/",
+        "outputPath": "/home/ahmet/netcore/NetCoreAPI/NetCoreAPI.Core/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/ahmet/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.302/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/ahmet/netcore/NetCoreAPI/NetCoreAPI.DataAccess/NetCoreAPI.DataAccess.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/ahmet/netcore/NetCoreAPI/NetCoreAPI.DataAccess/NetCoreAPI.DataAccess.csproj",
+        "projectName": "NetCoreAPI.DataAccess",
+        "projectPath": "/home/ahmet/netcore/NetCoreAPI/NetCoreAPI.DataAccess/NetCoreAPI.DataAccess.csproj",
+        "packagesPath": "/home/ahmet/.nuget/packages/",
+        "outputPath": "/home/ahmet/netcore/NetCoreAPI/NetCoreAPI.DataAccess/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/ahmet/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "/home/ahmet/netcore/NetCoreAPI/NetCoreAPI.Core/NetCoreAPI.Core.csproj": {
+                "projectPath": "/home/ahmet/netcore/NetCoreAPI/NetCoreAPI.Core/NetCoreAPI.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.302/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/ahmet/netcore/NetCoreAPI/NetCoreAPI.Service/NetCoreAPI.Service.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/ahmet/netcore/NetCoreAPI/NetCoreAPI.Service/NetCoreAPI.Service.csproj",
+        "projectName": "NetCoreAPI.Service",
+        "projectPath": "/home/ahmet/netcore/NetCoreAPI/NetCoreAPI.Service/NetCoreAPI.Service.csproj",
+        "packagesPath": "/home/ahmet/.nuget/packages/",
+        "outputPath": "/home/ahmet/netcore/NetCoreAPI/NetCoreAPI.Service/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/ahmet/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "/home/ahmet/netcore/NetCoreAPI/NetCoreAPI.DataAccess/NetCoreAPI.DataAccess.csproj": {
+                "projectPath": "/home/ahmet/netcore/NetCoreAPI/NetCoreAPI.DataAccess/NetCoreAPI.DataAccess.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.302/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/ahmet/netcore/NetCoreAPI/NetCoreAPI.SharedLibrary/NetCoreAPI.SharedLibrary.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/ahmet/netcore/NetCoreAPI/NetCoreAPI.SharedLibrary/NetCoreAPI.SharedLibrary.csproj",
+        "projectName": "NetCoreAPI.SharedLibrary",
+        "projectPath": "/home/ahmet/netcore/NetCoreAPI/NetCoreAPI.SharedLibrary/NetCoreAPI.SharedLibrary.csproj",
+        "packagesPath": "/home/ahmet/.nuget/packages/",
+        "outputPath": "/home/ahmet/netcore/NetCoreAPI/NetCoreAPI.SharedLibrary/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/ahmet/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }

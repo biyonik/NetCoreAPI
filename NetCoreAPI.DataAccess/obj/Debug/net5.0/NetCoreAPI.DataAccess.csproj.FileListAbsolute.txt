@@ -1,0 +1,15 @@
+/home/ahmet/netcore/NetCoreAPI/NetCoreAPI.DataAccess/bin/Debug/net5.0/NetCoreAPI.DataAccess.deps.json
+/home/ahmet/netcore/NetCoreAPI/NetCoreAPI.DataAccess/bin/Debug/net5.0/NetCoreAPI.DataAccess.dll
+/home/ahmet/netcore/NetCoreAPI/NetCoreAPI.DataAccess/bin/Debug/net5.0/ref/NetCoreAPI.DataAccess.dll
+/home/ahmet/netcore/NetCoreAPI/NetCoreAPI.DataAccess/bin/Debug/net5.0/NetCoreAPI.DataAccess.pdb
+/home/ahmet/netcore/NetCoreAPI/NetCoreAPI.DataAccess/bin/Debug/net5.0/NetCoreAPI.Core.dll
+/home/ahmet/netcore/NetCoreAPI/NetCoreAPI.DataAccess/bin/Debug/net5.0/NetCoreAPI.Core.pdb
+/home/ahmet/netcore/NetCoreAPI/NetCoreAPI.DataAccess/obj/Debug/net5.0/NetCoreAPI.DataAccess.csproj.AssemblyReference.cache
+/home/ahmet/netcore/NetCoreAPI/NetCoreAPI.DataAccess/obj/Debug/net5.0/NetCoreAPI.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+/home/ahmet/netcore/NetCoreAPI/NetCoreAPI.DataAccess/obj/Debug/net5.0/NetCoreAPI.DataAccess.AssemblyInfoInputs.cache
+/home/ahmet/netcore/NetCoreAPI/NetCoreAPI.DataAccess/obj/Debug/net5.0/NetCoreAPI.DataAccess.AssemblyInfo.cs
+/home/ahmet/netcore/NetCoreAPI/NetCoreAPI.DataAccess/obj/Debug/net5.0/NetCoreAPI.DataAccess.csproj.CoreCompileInputs.cache
+/home/ahmet/netcore/NetCoreAPI/NetCoreAPI.DataAccess/obj/Debug/net5.0/NetCoreAPI.DataAccess.csproj.CopyComplete
+/home/ahmet/netcore/NetCoreAPI/NetCoreAPI.DataAccess/obj/Debug/net5.0/NetCoreAPI.DataAccess.dll
+/home/ahmet/netcore/NetCoreAPI/NetCoreAPI.DataAccess/obj/Debug/net5.0/ref/NetCoreAPI.DataAccess.dll
+/home/ahmet/netcore/NetCoreAPI/NetCoreAPI.DataAccess/obj/Debug/net5.0/NetCoreAPI.DataAccess.pdb

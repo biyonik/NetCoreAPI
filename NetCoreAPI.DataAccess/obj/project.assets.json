@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    "net5.0": {}
+    "net5.0": {
+      "NetCoreAPI.Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/NetCoreAPI.Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/NetCoreAPI.Core.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "NetCoreAPI.Core/1.0.0": {
+      "type": "project",
+      "path": "../NetCoreAPI.Core/NetCoreAPI.Core.csproj",
+      "msbuildProject": "../NetCoreAPI.Core/NetCoreAPI.Core.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net5.0": []
+    "net5.0": [
+      "NetCoreAPI.Core >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "/home/ahmet/.nuget/packages/": {}
@@ -31,7 +50,11 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "/home/ahmet/netcore/NetCoreAPI/NetCoreAPI.Core/NetCoreAPI.Core.csproj": {
+              "projectPath": "/home/ahmet/netcore/NetCoreAPI/NetCoreAPI.Core/NetCoreAPI.Core.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

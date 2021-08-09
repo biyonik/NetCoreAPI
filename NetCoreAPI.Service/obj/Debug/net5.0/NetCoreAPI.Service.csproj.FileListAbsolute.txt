@@ -1,0 +1,17 @@
+/home/ahmet/netcore/NetCoreAPI/NetCoreAPI.Service/bin/Debug/net5.0/NetCoreAPI.Service.deps.json
+/home/ahmet/netcore/NetCoreAPI/NetCoreAPI.Service/bin/Debug/net5.0/NetCoreAPI.Service.dll
+/home/ahmet/netcore/NetCoreAPI/NetCoreAPI.Service/bin/Debug/net5.0/ref/NetCoreAPI.Service.dll
+/home/ahmet/netcore/NetCoreAPI/NetCoreAPI.Service/bin/Debug/net5.0/NetCoreAPI.Service.pdb
+/home/ahmet/netcore/NetCoreAPI/NetCoreAPI.Service/bin/Debug/net5.0/NetCoreAPI.Core.dll
+/home/ahmet/netcore/NetCoreAPI/NetCoreAPI.Service/bin/Debug/net5.0/NetCoreAPI.DataAccess.dll
+/home/ahmet/netcore/NetCoreAPI/NetCoreAPI.Service/bin/Debug/net5.0/NetCoreAPI.DataAccess.pdb
+/home/ahmet/netcore/NetCoreAPI/NetCoreAPI.Service/bin/Debug/net5.0/NetCoreAPI.Core.pdb
+/home/ahmet/netcore/NetCoreAPI/NetCoreAPI.Service/obj/Debug/net5.0/NetCoreAPI.Service.csproj.AssemblyReference.cache
+/home/ahmet/netcore/NetCoreAPI/NetCoreAPI.Service/obj/Debug/net5.0/NetCoreAPI.Service.GeneratedMSBuildEditorConfig.editorconfig
+/home/ahmet/netcore/NetCoreAPI/NetCoreAPI.Service/obj/Debug/net5.0/NetCoreAPI.Service.AssemblyInfoInputs.cache
+/home/ahmet/netcore/NetCoreAPI/NetCoreAPI.Service/obj/Debug/net5.0/NetCoreAPI.Service.AssemblyInfo.cs
+/home/ahmet/netcore/NetCoreAPI/NetCoreAPI.Service/obj/Debug/net5.0/NetCoreAPI.Service.csproj.CoreCompileInputs.cache
+/home/ahmet/netcore/NetCoreAPI/NetCoreAPI.Service/obj/Debug/net5.0/NetCoreAPI.Service.csproj.CopyComplete
+/home/ahmet/netcore/NetCoreAPI/NetCoreAPI.Service/obj/Debug/net5.0/NetCoreAPI.Service.dll
+/home/ahmet/netcore/NetCoreAPI/NetCoreAPI.Service/obj/Debug/net5.0/ref/NetCoreAPI.Service.dll
+/home/ahmet/netcore/NetCoreAPI/NetCoreAPI.Service/obj/Debug/net5.0/NetCoreAPI.Service.pdb

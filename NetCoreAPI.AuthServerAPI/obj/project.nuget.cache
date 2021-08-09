@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "NZFhzLGdm7VT8bP3kyO+fkzaDLLSZkUnKlatRZHteEn7nw6fe88VBwN2V/4xW01o06jlXSbvy/w1zmal2ZkG7A==",
+  "dgSpecHash": "8fSCjmMVKtnQnYrIGWh1w2Wt2X7ET2/0ii0KZVNWjDPI+9GpcSPaLD8zOuIWNh3dVBpR5qTFP6tY6MQx1tbOMQ==",
   "success": true,
   "projectFilePath": "/home/ahmet/netcore/NetCoreAPI/NetCoreAPI.AuthServerAPI/NetCoreAPI.AuthServerAPI.csproj",
   "expectedPackageFiles": [

@@ -12,4 +12,9 @@
       <Folder Include="Controllers" />
     </ItemGroup>
 
+    <ItemGroup>
+      <ProjectReference Include="..\NetCoreAPI.Service\NetCoreAPI.Service.csproj" />
+      <ProjectReference Include="..\NetCoreAPI.SharedLibrary\NetCoreAPI.SharedLibrary.csproj" />
+    </ItemGroup>
+
 </Project>

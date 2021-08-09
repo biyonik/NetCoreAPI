@@ -27,3 +27,11 @@
 /home/ahmet/netcore/NetCoreAPI/NetCoreAPI.AuthServerAPI/obj/Debug/net5.0/ref/NetCoreAPI.AuthServerAPI.dll
 /home/ahmet/netcore/NetCoreAPI/NetCoreAPI.AuthServerAPI/obj/Debug/net5.0/NetCoreAPI.AuthServerAPI.pdb
 /home/ahmet/netcore/NetCoreAPI/NetCoreAPI.AuthServerAPI/obj/Debug/net5.0/NetCoreAPI.AuthServerAPI.genruntimeconfig.cache
+/home/ahmet/netcore/NetCoreAPI/NetCoreAPI.AuthServerAPI/bin/Debug/net5.0/NetCoreAPI.Core.dll
+/home/ahmet/netcore/NetCoreAPI/NetCoreAPI.AuthServerAPI/bin/Debug/net5.0/NetCoreAPI.DataAccess.dll
+/home/ahmet/netcore/NetCoreAPI/NetCoreAPI.AuthServerAPI/bin/Debug/net5.0/NetCoreAPI.Service.dll
+/home/ahmet/netcore/NetCoreAPI/NetCoreAPI.AuthServerAPI/bin/Debug/net5.0/NetCoreAPI.Service.pdb
+/home/ahmet/netcore/NetCoreAPI/NetCoreAPI.AuthServerAPI/bin/Debug/net5.0/NetCoreAPI.Core.pdb
+/home/ahmet/netcore/NetCoreAPI/NetCoreAPI.AuthServerAPI/bin/Debug/net5.0/NetCoreAPI.DataAccess.pdb
+/home/ahmet/netcore/NetCoreAPI/NetCoreAPI.AuthServerAPI/bin/Debug/net5.0/NetCoreAPI.SharedLibrary.dll
+/home/ahmet/netcore/NetCoreAPI/NetCoreAPI.AuthServerAPI/bin/Debug/net5.0/NetCoreAPI.SharedLibrary.pdb

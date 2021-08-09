@@ -75,6 +75,52 @@
         "frameworkReferences": [
           "Microsoft.AspNetCore.App"
         ]
+      },
+      "NetCoreAPI.Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/NetCoreAPI.Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/NetCoreAPI.Core.dll": {}
+        }
+      },
+      "NetCoreAPI.DataAccess/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "dependencies": {
+          "NetCoreAPI.Core": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/NetCoreAPI.DataAccess.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/NetCoreAPI.DataAccess.dll": {}
+        }
+      },
+      "NetCoreAPI.Service/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "dependencies": {
+          "NetCoreAPI.DataAccess": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/NetCoreAPI.Service.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/NetCoreAPI.Service.dll": {}
+        }
+      },
+      "NetCoreAPI.SharedLibrary/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/NetCoreAPI.SharedLibrary.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/NetCoreAPI.SharedLibrary.dll": {}
+        }
       }
     }
   },
@@ -185,10 +231,32 @@
         "swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512",
         "swashbuckle.aspnetcore.swaggerui.nuspec"
       ]
+    },
+    "NetCoreAPI.Core/1.0.0": {
+      "type": "project",
+      "path": "../NetCoreAPI.Core/NetCoreAPI.Core.csproj",
+      "msbuildProject": "../NetCoreAPI.Core/NetCoreAPI.Core.csproj"
+    },
+    "NetCoreAPI.DataAccess/1.0.0": {
+      "type": "project",
+      "path": "../NetCoreAPI.DataAccess/NetCoreAPI.DataAccess.csproj",
+      "msbuildProject": "../NetCoreAPI.DataAccess/NetCoreAPI.DataAccess.csproj"
+    },
+    "NetCoreAPI.Service/1.0.0": {
+      "type": "project",
+      "path": "../NetCoreAPI.Service/NetCoreAPI.Service.csproj",
+      "msbuildProject": "../NetCoreAPI.Service/NetCoreAPI.Service.csproj"
+    },
+    "NetCoreAPI.SharedLibrary/1.0.0": {
+      "type": "project",
+      "path": "../NetCoreAPI.SharedLibrary/NetCoreAPI.SharedLibrary.csproj",
+      "msbuildProject": "../NetCoreAPI.SharedLibrary/NetCoreAPI.SharedLibrary.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net5.0": [
+      "NetCoreAPI.Service >= 1.0.0",
+      "NetCoreAPI.SharedLibrary >= 1.0.0",
       "Swashbuckle.AspNetCore >= 5.6.3"
     ]
   },
@@ -216,7 +284,14 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "/home/ahmet/netcore/NetCoreAPI/NetCoreAPI.Service/NetCoreAPI.Service.csproj": {
+              "projectPath": "/home/ahmet/netcore/NetCoreAPI/NetCoreAPI.Service/NetCoreAPI.Service.csproj"
+            },
+            "/home/ahmet/netcore/NetCoreAPI/NetCoreAPI.SharedLibrary/NetCoreAPI.SharedLibrary.csproj": {
+              "projectPath": "/home/ahmet/netcore/NetCoreAPI/NetCoreAPI.SharedLibrary/NetCoreAPI.SharedLibrary.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
