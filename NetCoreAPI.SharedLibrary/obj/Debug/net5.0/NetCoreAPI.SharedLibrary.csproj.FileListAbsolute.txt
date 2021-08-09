@@ -1,0 +1,12 @@
+/home/ahmet/netcore/NetCoreAPI/NetCoreAPI.SharedLibrary/bin/Debug/net5.0/NetCoreAPI.SharedLibrary.deps.json
+/home/ahmet/netcore/NetCoreAPI/NetCoreAPI.SharedLibrary/bin/Debug/net5.0/NetCoreAPI.SharedLibrary.dll
+/home/ahmet/netcore/NetCoreAPI/NetCoreAPI.SharedLibrary/bin/Debug/net5.0/ref/NetCoreAPI.SharedLibrary.dll
+/home/ahmet/netcore/NetCoreAPI/NetCoreAPI.SharedLibrary/bin/Debug/net5.0/NetCoreAPI.SharedLibrary.pdb
+/home/ahmet/netcore/NetCoreAPI/NetCoreAPI.SharedLibrary/obj/Debug/net5.0/NetCoreAPI.SharedLibrary.csproj.AssemblyReference.cache
+/home/ahmet/netcore/NetCoreAPI/NetCoreAPI.SharedLibrary/obj/Debug/net5.0/NetCoreAPI.SharedLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/home/ahmet/netcore/NetCoreAPI/NetCoreAPI.SharedLibrary/obj/Debug/net5.0/NetCoreAPI.SharedLibrary.AssemblyInfoInputs.cache
+/home/ahmet/netcore/NetCoreAPI/NetCoreAPI.SharedLibrary/obj/Debug/net5.0/NetCoreAPI.SharedLibrary.AssemblyInfo.cs
+/home/ahmet/netcore/NetCoreAPI/NetCoreAPI.SharedLibrary/obj/Debug/net5.0/NetCoreAPI.SharedLibrary.csproj.CoreCompileInputs.cache
+/home/ahmet/netcore/NetCoreAPI/NetCoreAPI.SharedLibrary/obj/Debug/net5.0/NetCoreAPI.SharedLibrary.dll
+/home/ahmet/netcore/NetCoreAPI/NetCoreAPI.SharedLibrary/obj/Debug/net5.0/ref/NetCoreAPI.SharedLibrary.dll
+/home/ahmet/netcore/NetCoreAPI/NetCoreAPI.SharedLibrary/obj/Debug/net5.0/NetCoreAPI.SharedLibrary.pdb

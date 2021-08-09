@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "nWPg27TsGxh8SKQ/TzuYg77GF4pdg8EPWHUMsdgurr4D3Hm+Kjmt6xWQ0vKOqgANZS4iavyNgomTQCK03rIrAA==",
+  "dgSpecHash": "TiB68sJkYqfZrvvjqskniM06at6TxZTEjcSjbmGyrg99X432ZifViKk8X4oPhiAQhrT9j8GD1FfPshVd1vTkMQ==",
   "success": true,
   "projectFilePath": "/home/ahmet/netcore/NetCoreAPI/NetCoreAPI.SharedLibrary/NetCoreAPI.SharedLibrary.csproj",
   "expectedPackageFiles": [],

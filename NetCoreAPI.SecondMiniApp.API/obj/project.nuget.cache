@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "mjqoiGYIgXs+sRYJSlJGPQyuZV9qn9dlMUOzsKRkaBd9CkxWgiijlwCFWszfeX6myDgc7hRxOq4oRMib2KrX+g==",
+  "dgSpecHash": "h+Vg0wbED8u3M+7o8u8s2cubaVmtPDmt1mpkVIsgLOfMgrLQ+lWhXcbaxXBRgwIvLDqFRO5Ni6xTGgQzMYpw+g==",
   "success": true,
   "projectFilePath": "/home/ahmet/netcore/NetCoreAPI/NetCoreAPI.SecondMiniApp.API/NetCoreAPI.SecondMiniApp.API.csproj",
   "expectedPackageFiles": [
